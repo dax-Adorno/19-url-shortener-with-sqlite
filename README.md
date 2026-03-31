@@ -1,4 +1,4 @@
-# Day 19 - URL Shortener with SQLite
+# 19 - URL Shortener with SQLite
 
 Python CLI application that shortens URLs locally, stores them in SQLite, avoids duplicates, and retrieves the original URL by short code.
 
